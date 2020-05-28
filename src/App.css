@@ -1,0 +1,11 @@
+.demoForm{
+    display: table-caption;
+    min-width: 300px;
+    position: absolute;
+    margin-left: 37%;
+    text-align: center;
+}
+.errormsg{
+    font-size: 12px;
+    color:red;
+}
